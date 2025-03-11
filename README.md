@@ -6,40 +6,56 @@ This project aims to analyze telecom customer churn data to identify factors inf
 
 Dataset
 
-The dataset contains customer details such as tenure, contract type, monthly charges, total charges, and whether they have churned.
+The dataset contains customer details such as:
+
+- Tenure
+
+- Contract type
+
+- Monthly charges
+
+- Total charges
+
+- Churn status
 
 Data is preprocessed to handle missing values, convert categorical variables, and normalize numerical features.
 
 Steps Involved
 
-Data Preprocessing:
+- Data Preprocessing:
 
-Handling missing values and incorrect data types.
+Handling missing values and incorrect data types
 
-Encoding categorical features.
+- Encoding categorical features
 
-Scaling numerical features.
+- Scaling numerical features
 
 Exploratory Data Analysis (EDA):
 
-Visualizing customer distribution and churn patterns.
+- Visualizing customer distribution and churn patterns
 
-Identifying key factors influencing churn.
+- Identifying key factors influencing churn
 
 Insights & Observations:
 
-Understanding customer behavior trends.
+- Understanding customer behavior trends
 
-Providing data-driven recommendations to reduce churn.
+- Providing data-driven recommendations to reduce churn
 
 Technologies Used
 
-Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Python: Pandas, NumPy, Matplotlib, Seaborn
 
-Jupyter Notebook
+- Jupyter Notebook
 
 Future Improvements
 
-Implement machine learning models like Logistic Regression, Random Forest, and XGBoost for churn prediction.
+Implement machine learning models such as:
 
-Optimize feature selection for improved accuracy.
+- Logistic Regression
+
+- Random Forest
+
+- XGBoost for churn prediction
+
+- Optimize feature selection for improved accuracy
